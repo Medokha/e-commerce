@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689212247595",
+    "project_id": "final-commerce",
+    "storage_bucket": "final-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689212247595:android:26df3f26d4334bb1dda46e",
+        "android_client_info": {
+          "package_name": "com.example.e_commerec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycWdyMXTkd1r14hmHOw7WAziDNaQ_zac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
